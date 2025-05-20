@@ -44,5 +44,5 @@ live link:
 ## 📁 File Structure
 
 📦 YouTube-Downloader/
-├── index.html # Main HTML file
-└── README.md # Project documentation
+-index.html # Main HTML file
+-README.md # Project documentation
